@@ -2,7 +2,7 @@
 
 ## 🚀 Backend Developer | Java Enthusiast | Software Architect
 
-Welcome to my GitHub profile! I'm a passionate backend developer focused on creating **reliable and scalable software solutions**. Currently pursuing my Bachelor's degree in Computer Science at Innopolis University while building robust systems with Java and Spring Framework.
+Welcome to my GitHub profile! I'm **Nikita Maksimenko**, a passionate backend developer focused on creating **reliable and scalable software solutions**. Currently pursuing my Bachelor's degree in Computer Science at Innopolis University while building robust systems with Java and Spring Framework.
 
 ---
 
