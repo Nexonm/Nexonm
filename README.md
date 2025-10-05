@@ -29,8 +29,8 @@ Want to learn:
 
 ### 🗄️ Distributed File Storage System
 **Role:** Backend Developer, DevOps, Architect  
-**Tech Stack:** Java, Spring Boot, Docker, CI/CD, PostgreSQL
-**Repositories:** [📁 Metadata Server](https://github.com/Nexonm/metadata-server) | [📁 Storage Node](https://github.com/Nexonm/storage-node) | [📁 Nginx](https://github.com/Nexonm/dfs-nginx)
+**Tech Stack:** Java, Spring Boot, Docker, CI/CD, PostgreSQLhttps://github.com/Nexonm/dfs-metadata
+**Repositories:** [📁 Metadata Server](https://github.com/Nexonm/dfs-metadata) | [📁 Storage Node](https://github.com/Nexonm/dfs-storage-node) | [📁 Nginx](https://github.com/Nexonm/dfs-nginx)
 
 ---
 
