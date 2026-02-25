@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm **Nikita Maksimenko**, a passionate backend de
 Current stack:
 </p>
 <p align="center">
-    <a href="#"><img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,git,github,md,docker&perline=8&theme=light" alt="current stack"></a>
+    <a href="#"><img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,docker,kubernetes&perline=8&theme=light" alt="current stack"></a>
 </p>
 
 <br>
@@ -20,7 +20,7 @@ Current stack:
 Want to learn:
 </p>
 <p align="center">
-    <a href="#"><img src="https://skillicons.dev/icons?i=redis,kafka,rabbitmq,kubernetes&perline=4&theme=light" alt="want to learn"></a>
+    <a href="#"><img src="https://skillicons.dev/icons?i=redis,kafka,rabbitmq&perline=4&theme=light" alt="want to learn"></a>
 </p>
 
 ---
